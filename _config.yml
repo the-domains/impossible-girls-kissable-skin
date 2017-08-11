@@ -1,0 +1,56 @@
+name: Impossible Girl's Kissable Skin
+layout_spectrum: 0.5069079506695087
+typography_spectrum: 0.5375332322480655
+analytics:
+  facebook: '1788863521350364'
+  google: UA-78600613-1
+  twitter: ''
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  brandStrength: 0.24726809209710596
+  lightness: 0.34725917700715
+  saturation: 0.13708204845547456
+  rhythmicContrast: 0.6404074315167042
+purpose:
+  - type: contact
+    label: Contact me to order
+    url: 'mailto:silvatungfox@gmail.com'
+title: Kissable Skin
+description: All natural healing salve
+author:
+  name: Maurine L Dodge
+  url: 'http://maurinedodge.photo/'
+  email: silvatungfox@gmail.com
+content_rating:
+  adult: false
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07cf496-0ac8-4929-a2c5-0f35fc5292f5.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07cf496-0ac8-4929-a2c5-0f35fc5292f5.jpg
+    metadata:
+      '@type': MediaObject
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
