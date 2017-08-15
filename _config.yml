@@ -1,13 +1,5 @@
-name: Impossible Girl's Kissable Skin
-layout_spectrum: 0.5069079506695087
-typography_spectrum: 0.5375332322480655
-analytics:
-  facebook: '1788863521350364'
-  google: UA-78600613-1
-  twitter: ''
-opengraph:
-  type: ''
-  appId: ''
+layout_spectrum: 0.6834563711102093
+typography_spectrum: 0.2828880849425303
 color:
   brandColors:
     - '#225378'
@@ -15,10 +7,18 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
-  brandStrength: 0.24726809209710596
-  lightness: 0.34725917700715
-  saturation: 0.13708204845547456
-  rhythmicContrast: 0.6404074315167042
+  brandStrength: 0.19672279349251623
+  lightness: 0.44102130998165745
+  saturation: 0.9022827292663405
+  rhythmicContrast: 0.9794722743851529
+name: Impossible Girl's Kissable Skin
+analytics:
+  facebook: '1788863521350364'
+  google: UA-78600613-1
+  twitter: ''
+opengraph:
+  type: ''
+  appId: ''
 purpose:
   - type: contact
     label: Contact me to order
