@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'options:'
-dateModified: '2017-08-16T03:55:49.988Z'
-datePublished: '2017-08-16T03:55:50.871Z'
+dateModified: '2017-08-16T03:55:50.953Z'
+datePublished: '2017-08-16T03:55:51.460Z'
 title: ''
 author: []
 publisher: {}
